@@ -1,0 +1,29 @@
+body {
+  background-color: rgba(211, 211, 229, 0.342);
+} 
+
+hr{
+ color: rgb(36, 129, 78);
+ border-style: dashed;
+ border-width: 3px ;
+ width: 5%;
+
+}
+
+
+img {
+  height: 200px;
+  width: 500px;
+  border-style: groove;
+  
+}
+
+h1  {
+
+  color: rgb(29, 125, 125);
+}
+
+h3  {
+
+  color: rgb(27, 30, 106);
+}
