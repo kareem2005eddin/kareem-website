@@ -32,8 +32,51 @@ h3  {
   font-style: italic;
 }
 
-h9 {
 
-  font-family: 'Comfortaa';
+.b {
+
+  background-color: red;
+}
+
+.b:hover{
+
+  background-color: gold;
+}
+
+/* hover its mean when i put mouse on the photo*/
+
+
+
+/* these is for one photo i want to change that wallpaper
+but my other photo has not wallpaper to change
+so added these photo to try it
+you should add the point at first*/
+
+
+/* here i turn to color just a one paragraph like img and its work :) */
+p {
+
+  color: brown;
 
 }
+
+.top {
+
+  color: rgb(59, 97, 97);
+}
+
+/* you can something called id .. its the same but you should change the point to #  */
+
+#c {
+
+  color: rgb(40, 93, 7);
+  font-family: 'Comfortaa';
+}
+
+.k {
+
+  border-radius: 100%;
+}
+
+/* here i let you see how i can add more one name on one class */
+
