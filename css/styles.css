@@ -1,12 +1,12 @@
 body {
-  background-color: rgba(211, 211, 229, 0.342);
+  background-color: rgba(104, 87, 87, 0.342);
 } 
 
 hr{
  color: rgb(36, 129, 78);
- border-style: dashed;
- border-width: 3px ;
- width: 5%;
+ border-style: double;
+ border-width: 2px ;
+ width: 10%;
 
 }
 
@@ -21,9 +21,19 @@ img {
 h1  {
 
   color: rgb(29, 125, 125);
+  font-family: 'Comfortaa';
+  /* woooooooooooooow*/
 }
 
 h3  {
 
   color: rgb(27, 30, 106);
+  font-size: 30px;
+  font-style: italic;
+}
+
+h9 {
+
+  font-family: 'Comfortaa';
+
 }
